@@ -1,0 +1,6 @@
+{
+  "name": "Light Hive",
+  "description": "Beekeeper data collection and apiary management app tracking hives, health checkups, and Uganda harvest seasons.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
